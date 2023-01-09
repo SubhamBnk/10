@@ -15,4 +15,3 @@ using EJS and tailwindCSS
 
 4. Run app using `npm start`
 
-### 👉 [Try it out](https://todo-app-js-kvh0.onrender.com)
